@@ -25,23 +25,12 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| José Antônio       |Saber o tempo e distância  |Planejar a melhor rota para trazer| 
-|                    |até o local de entrega     |agilidade as entregas             |
-| José Antônio       |Saber como está o trânsito |Desviar de certos caminhos e      | 
-|                    |em tempo real              |encontrar o melhor percurso para  |
-|                    |                           |as entregas                       |
-| José Antônio       |Saber quantos quilômetros  |Ter controle sobre os gastos de   | 
-|                    |foram percorridos          |combustível                       |
-| José Antônio       |Saber o valor que será pago|Decidir se vale a pena ou não     | 
-|                    |pelas corridas com         |realizar determinadas entregas    |
-|                    |antecedência               |                                  |
-| Carlos Henrique    |Visualizar quais motoboys  |Contratar os melhores             | 
-|                    |são mais bem avaliados     |profissionais e trazer qualidade  |
-|                    |                           |aos atendimentos                  |
-| Carlos Henrique    |Visualizar a distância que |Saber a média de combustível e    | 
-|                    |os pedidos foram feitos    |outros gastos que serão realizados|
-|                    |pelos clientes             |pelos entregadores e ter mais     |
-|                    |                           |controle                          |
+|José Antônio|Saber o tempo e distância até o local de entrega|Planejar a melhor rota para trazer agilidade as entregas| 
+|José Antônio|Saber como está o trânsito em tempo real|Desviar de certos caminhos e encontrar o melhor percurso para as entregas| 
+|José Antônio|Saber quantos quilômetros foram percorridos|Ter controle sobre os gastos de combustível|
+|José Antônio|Saber o valor que será pago pelas corridas com antecedência|Decidir se vale a pena ou não realizar determinadas entregas|
+|Carlos Henrique|Visualizar quais motoboys são mais bem avaliados|Contratar os melhores profissionais e trazer qualidade aos atendimentos|
+|Carlos Henrique|Visualizar a distância que os pedidos foram feitos pelos clientes|Saber a média de combustível e outros gastos que serão realizados pelos entregadores e ter mais controle|
 
 ## Requisitos do Projeto
 
@@ -49,12 +38,12 @@
 
 |ID                 | Descrição                                                       | Prioridade |
 |-------------------|-----------------------------------------------------------------|------------|
-| RF- ENTREGADOR 01 |Sistema deve permitir ao usuário (entregador) incluir seu perfil | ALTA       |
+| RF- ENTREGADOR 01 |Sistema deve permitir ao usuário (entregador) incluir seu perfil | ALTA|
 | RF- ENTREGADOR 02 |Sistema deve permitir ao usuário (entregador) ter acesso as informações cadastrais do estabelecimento contratante tais como: endereço, horário de funcionamento, valor pago por entrega, se o estabelecimento possui veículo | ALTA       |
-| RF- ENTREGADOR 03 |Sistema deve permitir ao usuário (entregador) incluir seu perfil | ALTA       |
-|  ...  |  ...                    | ...   |
-
-**Prioridade: Alta / Média / Baixa. 
+| RF- ENTREGADOR 03 |Sistema deve permitir ao usuário (entregador) ter acesso a "nota" do estabelecimento contratante (exemplo: trato com o entregador| MÉDIA       |
+| RF- ENTREGADOR 01 |Sistema deve permitir ao usuário (responsável do estabelecimento contratante) incluir seus dados cadastrais (endereço, horário de funcionamento, valor pago por entrega, se o estabelecimento possui veículo)| ALTA |
+| RF- ENTREGADOR 02 |Sistema deve permitir ao usuário (responsável do estabelecimento contratante) ter acesso a informações cadastrais do entregador, tais como: modelo do veículo, dados de NCH, horário disponível para entrega| ALTA |
+| RF- ENTREGADOR 03 |Sistema deve permitir ao usuário (entregador) ter acesso a "nota" do entregador (exemplo: tempo de entrega, condições do produto na entrega, avaliação do cliente em relação a comunicação do entregador)| ALTA |
 
 ### Requisitos não Funcionais
 
