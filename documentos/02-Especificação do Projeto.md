@@ -51,8 +51,9 @@
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
-
-**Prioridade: Alta / Média / Baixa. 
-
+| RNF-01 |O sistema de funcionar 24 horas por dia, 7 dias por semana|ALTA|
+| RNF-02 |O sistema deve ser responsivo|MÉDIA|
+| RNF-03 |O sistema deve notificar os usuários automaticamente (em segundo plano) quando for confirmado solicitação|MÉDIA|
+| RNF-04 |O sistema deve atualizar a entrada de usuários em até 1 minuto|BAIXA|
+| RNF-05 |O sistema deve retornar ao usuário confirmação de entrada de dados|BAIXA|
+| RNF-06 |O sistema deve retornar falha ao usuário em caso de não confirmação de entrada de dados em 1 segundo|MÉDIA|
