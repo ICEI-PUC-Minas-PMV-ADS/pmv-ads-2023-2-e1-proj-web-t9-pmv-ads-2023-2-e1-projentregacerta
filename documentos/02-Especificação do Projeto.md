@@ -11,11 +11,11 @@
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">32 anos carteira CNH categoria A, trabalha como motoboy há 2 anos</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>Emprego fixo como entregador</td>
 </tr>
 </tbody>
 </table>
