@@ -50,6 +50,8 @@
 |ID                 | Descrição                                                       | Prioridade |
 |-------------------|-----------------------------------------------------------------|------------|
 | RF- ENTREGADOR 01 |Sistema deve permitir ao usuário (entregador) incluir seu perfil | ALTA       |
+| RF- ENTREGADOR 02 |Sistema deve permitir ao usuário (entregador) ter acesso as informações cadastrais do estabelecimento contratante tais como: endereço, horário de funcionamento, valor pago por entrega, se o estabelecimento possui veículo | ALTA       |
+| RF- ENTREGADOR 03 |Sistema deve permitir ao usuário (entregador) incluir seu perfil | ALTA       |
 |  ...  |  ...                    | ...   |
 
 **Prioridade: Alta / Média / Baixa. 
