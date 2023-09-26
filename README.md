@@ -11,15 +11,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 ## Integrantes
 
 * VINICIUS VIEIRA SILVA
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* JAYVISON SANTANA GODINHO
+* RODRIGO ARAUJO RIBEIRO
+* IAGO MACIEL PAIVA
+* FERNANDO MARQUES E MARQUES
+* DIEGO CHAGAS DE SOUZA
 
 ## Orientador
 
-* Nome completo do professor
+* MARCO RODRIGO COSTA
 
 # Documentação
 
