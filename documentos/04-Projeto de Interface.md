@@ -22,7 +22,12 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 [Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
+**Tela do Usuário Motoboy**
+
+Essa tela é responsável pela interação entre motoboy e empresas disponíveis em sua região.Aqui ele pode ver a classificação das empresas e informações necessárias caso tenha interesse trabalhar no estabelecimento. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/e0b0acca-0696-446f-92bc-1151f3180f73)
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
