@@ -60,6 +60,10 @@ Essa tela é responsável pela interação entre motoboy e empresas disponíveis
 ![Tela do Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/8605acc4-8e81-46e5-a469-ef772b37a928)
 
 **Tela de trajeto Motoboy**
+
+Essa tela é responsável pelas informações de endereço via GPS, calcular trajeto e conclusão de entrega.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20de%20trajeto%20.png)
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
