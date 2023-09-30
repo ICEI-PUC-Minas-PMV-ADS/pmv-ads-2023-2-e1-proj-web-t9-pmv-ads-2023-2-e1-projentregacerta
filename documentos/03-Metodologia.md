@@ -65,7 +65,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/tree/main/codigo-fonte                          |
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/tree/main                           |
-| Projeto de Interface                | Figma                              | http://....                            |
+| Projeto de Interface                | Figma                              | https://www.figma.com/file/CjxmUbudyb3b1uXTVoxiFx/Fluxo-de-usuario-ENTREGA-CERTA?type=design&node-id=0-1&mode=design&t=WPA8cHQC49z2SFe6-0                          |
 | Gerenciamento do Projeto            | Trello                             | https://trello.com/b/9ROlePWR/entrega-certa  |
 
 
