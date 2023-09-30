@@ -32,13 +32,9 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
   O quadro kanban do Trello esta disponivel no link .. e e apresentado,no estado atual,na figura que se segue:
 
-  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20do%20kanban%20utilzada%20no%20Trello%20pelo%20grupo.png)
 
+  Figura 2 - Tela do kanban no GitHub utilizada pelo grupo
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
