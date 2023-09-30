@@ -17,10 +17,6 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Equipe de Desenvolvimento: RODRIGO ARAUJO RIBEIRO, IAGO MACIEL PAIVA, FERNANDO MARQUES, DIEGO CHAGAS
 - Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
@@ -55,17 +51,23 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+As ferramentas empregadas no projeto sao:
+- Ferramentas de comunicação
+- Ferramentas de desenho de tela (wireframing)
+
+   As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas e para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+
+  Os artefatos do projeto são desenvolvidos a partir das plataformas Figma e Trello, apresentadas com seu propósito na tabela que se segue.
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
+| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/tree/main/codigo-fonte                          |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/tree/main                           |
 | Projeto de Interface                | Figma                              | http://....                            |
 | Gerenciamento do Projeto            | Trello                             | https://trello.com/b/9ROlePWR/entrega-certa  |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+
 
 
 ### Estratégia de Organização de Codificação 
