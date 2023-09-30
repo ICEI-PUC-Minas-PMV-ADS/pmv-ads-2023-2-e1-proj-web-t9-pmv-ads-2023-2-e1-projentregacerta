@@ -52,7 +52,9 @@ Essa tela é responsável pela realização de cadastro do usuário com inserç�
 
 Nessa tela, a empresa recebe as informações do cadastro do motoboy para análise, como dados pessoais, informações de contato e avaliações, e decide se ele será contratado.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20de%20contrata%C3%A7%C3%A3o%20da%20empresa.png)
+![Tela da empresa atualizada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/13500a99-c3dc-4ca3-beb7-05affd5ebc21)
+
+
 
 
 **Tela do Usuário Motoboy**
@@ -66,7 +68,8 @@ Essa tela é responsável pela interação entre motoboy e empresas disponíveis
 
 Essa tela é responsável pelas informações de endereço via GPS, calcular trajeto e conclusão de entrega.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20de%20trajeto%20.png)
+![Tela de trajeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/4887577c-2caa-48cd-84db-af9809a98c67)
+
  
 
 
