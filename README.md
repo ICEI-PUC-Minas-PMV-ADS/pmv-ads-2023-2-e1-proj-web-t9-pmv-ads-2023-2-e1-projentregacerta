@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 ## Integrantes
 
 * VINICIUS VIEIRA SILVA
-* JAYVISON SANTANA GODINHO
+* JAYVISON GONÇALVES SANTANA
 * RODRIGO ARAUJO RIBEIRO
 * IAGO MACIEL PAIVA
 * FERNANDO MARQUES E MARQUES
