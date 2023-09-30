@@ -7,7 +7,7 @@ O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário p
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/FLUXO%20DE%20USUARIO%20ENTREGA%20CERTA.png)
 
-Figura 1 - Fluxo de telas do usuário
+Figura 8 - Fluxo de telas do usuário
 
 ## Protótipo
 
@@ -23,7 +23,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/estrutura%20padrao%20do%20site.png).  
 
- Figura 2 : Estrutura padrao do site.
+ Figura 9 : Estrutura padrao do site.
 
 
 
