@@ -45,7 +45,8 @@ Essa tela é responsável pela realização de cadastro do usuário com inserç�
 
 Essa tela é responsável pela interação entre motoboy e empresas disponíveis em sua região.Aqui ele pode ver a classificação das empresas e informações necessárias caso tenha interesse trabalhar no estabelecimento. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/e0b0acca-0696-446f-92bc-1151f3180f73)
+![Tela do Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/8605acc4-8e81-46e5-a469-ef772b37a928)
+
 
  
 > **Links Úteis**:
