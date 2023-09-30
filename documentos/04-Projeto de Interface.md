@@ -65,7 +65,8 @@ Essa tela é responsável pela interação entre motoboy e empresas disponíveis
 
 Essa tela é responsável pelas informações de endereço via GPS, calcular trajeto e conclusão de entrega.
 
-![Tela de trajeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/4887577c-2caa-48cd-84db-af9809a98c67)
+![Tela de trajeto atualizada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/fd626e10-1351-4619-a858-35e3cc9485e9)
+
 
  
 
@@ -74,4 +75,5 @@ Essa tela é responsável pelas informações de endereço via GPS, calcular tra
 
 Tela para acompanhar pedido do estabelecimento até a entrega na casa do cliente, consegue ver o status da entraga e regular o tempo para que não haja atrasos e nem erros de etapa, mostra o endereço do cliente e qualquer observação que o cliente tenha deixado. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145410641/3d082fcd-b724-48e6-8952-744ae1f1c7bc)
+![Tela de  entrega atualizada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/6278fcb0-8c60-491b-9eb6-715b2321c0e4)
+
