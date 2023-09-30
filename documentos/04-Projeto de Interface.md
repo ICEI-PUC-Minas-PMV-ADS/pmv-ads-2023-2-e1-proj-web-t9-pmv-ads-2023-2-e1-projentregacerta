@@ -60,4 +60,4 @@ Essa tela é responsável pela interação entre motoboy e empresas disponíveis
 
 Tela para acompanhar pedido do estabelecimento até a entrega na casa do cliente, consegue ver o status da entraga e regular o tempo para que não haja atrasos e nem erros de etapa, mostra o endereço do cliente e qualquer observação que o cliente tenha deixado. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145410641/7b0d74de-8a89-4854-92b1-2e58b29173bc)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145410641/3d082fcd-b724-48e6-8952-744ae1f1c7bc)
