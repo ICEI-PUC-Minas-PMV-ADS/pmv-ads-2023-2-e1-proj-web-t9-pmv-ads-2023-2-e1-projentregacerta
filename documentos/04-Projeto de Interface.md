@@ -59,4 +59,4 @@ Essa tela é responsável pela interação entre motoboy e empresas disponíveis
 
 Tela para acompanhar pedido do estabelecimento até a entrega na casa do cliente, consegue ver o status da entraga e regular o tempo para que não haja atrasos e nem erros de etapa, mostra o endereço do cliente e qualquer observação que o cliente tenha deixado. 
 
-> ![image](documentos/img/Tela empresa.png)
+>(documentos/img/Tela empresa.png)
