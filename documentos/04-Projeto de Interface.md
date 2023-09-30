@@ -3,9 +3,10 @@
 
 ## User Flow
 
-O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o [ambiente figma do projeto](https://www.figma.com/file/CjxmUbudyb3b1uXTVoxiFx/Fluxo-de-usuario-ENTREGA-CERTA?type=design&node-id=0-1&mode=design&t=gzMSGgJvySQWJlyj-0).
+O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o [ambiente figma do projeto](https://www.figma.com/file/CjxmUbudyb3b1uXTVoxiFx/Fluxo-de-usuario-ENTREGA-CERTA?type=design&node-id=0-1&mode=design&t=gzMSGgJvySQWJlyj-0)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/FLUXO%20DE%20USUARIO%20ENTREGA%20CERTA.png)
+![Captura de tela 2023-09-30 181637](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/49d10126-4248-4f90-88a8-01b56592bb5e)
+
 
 Figura 8 - Fluxo de telas do usuário
 
