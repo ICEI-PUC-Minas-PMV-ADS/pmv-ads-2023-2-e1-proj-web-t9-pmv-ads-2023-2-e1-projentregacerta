@@ -25,7 +25,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 **Tela Home**
 
 Esta e a tela principal de nosso site,onde o usuario podera se informar a respeito de nosso site e de nossa proposta, se cadastrar ou,caso ja tenha uma conta,fazer o login e ter acesso as diversas ferramentas que estao disponiveis.
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/home%20page.jpg)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/HOME%20PAGE.png)
 
 
 **Tela Login**
