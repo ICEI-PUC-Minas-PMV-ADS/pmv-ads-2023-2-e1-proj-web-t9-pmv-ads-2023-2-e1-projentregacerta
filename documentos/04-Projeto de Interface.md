@@ -22,6 +22,21 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 [Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
 
+
+
+**Tela Login**
+
+Essa tela é responsável pela realização do Login através de inserção de e-mail e senha cadastradas. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/tela%20login.png)
+
+**Tela Cadastre-se**
+
+Essa tela é responsável pela realização de cadastro do usuário com inserção de dados de e-mail, nome, documentos entre outros, assim como senha. 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/tela%20cadastro.png)
+
+
 **Tela do Usuário Motoboy**
 
 Essa tela é responsável pela interação entre motoboy e empresas disponíveis em sua região.Aqui ele pode ver a classificação das empresas e informações necessárias caso tenha interesse trabalhar no estabelecimento. 
