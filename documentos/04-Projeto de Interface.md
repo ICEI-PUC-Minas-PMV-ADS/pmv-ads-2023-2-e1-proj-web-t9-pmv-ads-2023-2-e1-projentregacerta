@@ -59,7 +59,8 @@ Nessa tela, a empresa recebe as informações do cadastro do motoboy para análi
 
 Essa tela é responsável pela interação entre motoboy e empresas disponíveis em sua região.Aqui ele pode ver a classificação das empresas e informações necessárias caso tenha interesse trabalhar no estabelecimento. 
 
-![Tela do Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/8605acc4-8e81-46e5-a469-ef772b37a928)
+![Tela do Motoboy 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/f9d7efa6-3a2c-4e42-8e2f-c190599dc04a)
+
 
 **Tela de trajeto Motoboy**
 
@@ -67,12 +68,7 @@ Essa tela é responsável pelas informações de endereço via GPS, calcular tra
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20de%20trajeto%20.png)
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+
 
 > **Tela de Acompanhamento a entrega** 
 
