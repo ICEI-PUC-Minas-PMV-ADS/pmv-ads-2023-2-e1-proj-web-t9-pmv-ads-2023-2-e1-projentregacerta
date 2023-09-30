@@ -52,6 +52,8 @@ Essa tela é responsável pela realização de cadastro do usuário com inserç�
 
 Nessa tela, a empresa recebe as informações do cadastro do motoboy para análise, como dados pessoais, informações de contato e avaliações, e decide se ele será contratado.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20de%20contrata%C3%A7%C3%A3o%20da%20empresa.png)
+
 
 **Tela do Usuário Motoboy**
 
