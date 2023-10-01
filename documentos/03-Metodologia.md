@@ -15,7 +15,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Scrum Master: JAYVISON GONCALVES SANTANA
 - Product Owner: VINICIUS VIEIRA SILVA
 - Equipe de Desenvolvimento: RODRIGO ARAUJO RIBEIRO, IAGO MACIEL PAIVA, FERNANDO MARQUES, DIEGO CHAGAS
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+- Equipe de Design:JAYVISON GONCALVES SANTANA, VINICIUS VIEIRA SILVA, RODRIGO ARAUJO RIBEIRO, IAGO MACIEL PAIVA, FERNANDO MARQUES E MARQUES,DIEGO CHAGAS 
 
 
 ### Processo
