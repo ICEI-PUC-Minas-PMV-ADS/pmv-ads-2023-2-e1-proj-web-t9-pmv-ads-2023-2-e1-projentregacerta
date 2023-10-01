@@ -26,7 +26,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - In progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário.
 
-  O quadro kanban do Trello esta disponivel no link .. e e apresentado,no estado atual,na figura que se segue:
+  O quadro kanban do Trello esta disponivel no link https://trello.com/b/9ROlePWR/entrega-certa e e apresentado,no estado atual,na figura que se segue:
 
   ![Tela do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/c3eb3e81-2f3c-4142-804b-ec6a70a5fe8d)
 
