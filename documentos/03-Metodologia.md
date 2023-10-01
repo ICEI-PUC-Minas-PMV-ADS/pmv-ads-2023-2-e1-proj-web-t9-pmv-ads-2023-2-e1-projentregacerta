@@ -28,7 +28,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
   O quadro kanban do Trello esta disponivel no link .. e e apresentado,no estado atual,na figura que se segue:
 
-  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20do%20kanban%20utilzada%20no%20Trello%20pelo%20grupo.png)
+  ![Tela do Projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/c3eb3e81-2f3c-4142-804b-ec6a70a5fe8d)
+
 
   Figura 2 - Tela do kanban no GitHub utilizada pelo grupo
 
