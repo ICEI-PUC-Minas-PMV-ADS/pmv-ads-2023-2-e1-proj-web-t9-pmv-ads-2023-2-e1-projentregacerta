@@ -30,7 +30,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 **Tela Home**
 
-Esta é a tela principal do site,onde o usuario poderá se informar do site em si e da proposta apresentada, se cadastrar ou,caso ja tenha uma conta,fazer o login e ter acesso as diversas ferramentas que estão disponíveis.
+Esta é a tela principal do site,onde o usuário poderá se informar do site em si e da proposta apresentada, se cadastrar ou,caso ja tenha uma conta,fazer o login e ter acesso as diversas ferramentas que estão disponíveis.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/HOME%20PAGE.png)
 
