@@ -18,6 +18,19 @@
 <td>Emprego fixo como entregador</td>
 </tr>
 </tbody>
+  <tbody>
+    <tr align=center>
+      <th colspan="2">Perfil Carlos Henrique Empresário</th>
+    </tr>
+    <tr>
+      <td width="150px"><b>Descrição</b></td>
+      <td width="600px">40 anos,empresário e dono de uma rede de lanchonetes</td>
+    </tr>
+    <tr>
+    <td><b>Necessidades</b></td>
+    <td>Encontrar motoboy qualificado para realizar entregas</td>
+    </tr>
+  </tbody>
 </table>
 
 
