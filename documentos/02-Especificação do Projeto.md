@@ -19,7 +19,7 @@
 </tbody>
   <tbody>
     <tr align=center>
-      <th colspan="2">Perfil Carlos Henrique Empresário</th>
+      <th colspan="2">Perfil Carlos Henrique contratante</th>
     </tr>
     <tr>
       <td width="150px"><b>Descrição</b></td>
