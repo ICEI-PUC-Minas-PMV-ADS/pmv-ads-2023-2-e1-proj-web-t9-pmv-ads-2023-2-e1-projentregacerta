@@ -51,8 +51,9 @@
 |ID                 | Descrição                                                       | Prioridade |
 |-------------------|-----------------------------------------------------------------|------------|
 | RF- ENTREGADOR 01 |Sistema deve permitir ao usuário (entregador) incluir seu perfil | ALTA|
-| RF- ENTREGADOR 02 |Sistema deve permitir ao usuário (entregador) ter acesso as informações cadastrais do estabelecimento contratante tais como: endereço, horário de funcionamento, valor pago por entrega, se o estabelecimento possui veículo | ALTA       |
-| RF- ENTREGADOR 03 |Sistema deve permitir ao usuário (entregador) ter acesso a "nota" do estabelecimento contratante (exemplo: trato com o entregador| MÉDIA       |
+| RF- ENTREGADOR 02 |Sistema deve permitir a busca de determinado motoboy e empresa no sistema|ALTA|
+| RF- ENTREGADOR 03 |Sistema deve permitir ao usuário (entregador) ter acesso as informações cadastrais do estabelecimento contratante tais como: endereço, horário de funcionamento, valor pago por entrega, se o estabelecimento possui veículo | ALTA       |
+| RF- ENTREGADOR 04 |Sistema deve permitir ao usuário (entregador) ter acesso a "nota" do estabelecimento contratante (exemplo: trato com o entregador| MÉDIA       |
 | RF- ENTREGADOR 01 |Sistema deve permitir ao usuário (responsável do estabelecimento contratante) incluir seus dados cadastrais (endereço, horário de funcionamento, valor pago por entrega, se o estabelecimento possui veículo)| ALTA |
 | RF- ENTREGADOR 02 |Sistema deve permitir ao usuário (responsável do estabelecimento contratante) ter acesso a informações cadastrais do entregador, tais como: modelo do veículo, dados de NCH, horário disponível para entrega| ALTA |
 | RF- ENTREGADOR 03 |Sistema deve permitir ao usuário (entregador) ter acesso a "nota" do entregador (exemplo: tempo de entrega, condições do produto na entrega, avaliação do cliente em relação a comunicação do entregador)| ALTA |
