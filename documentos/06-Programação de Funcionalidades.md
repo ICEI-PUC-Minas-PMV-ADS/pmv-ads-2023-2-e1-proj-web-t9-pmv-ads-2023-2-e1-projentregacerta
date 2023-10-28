@@ -31,7 +31,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 <h1> Tela de entregadores cadastrados (RF-02) </h1>
 
-Responsável: Diego
+Responsável: Diego Chagas de Souza
 
 O acesso a lista de entregadores cadastrados poderá ser feito através da home page, a qual sera acessada apenas pela empresa logada no sistema. Essa tela deve permitir que a empresa faça a busca do entregador por nome e consulte suas avaliações através das estrelas. As estruturas de dados foram baseadas em HTML, CSS E JS.
 
