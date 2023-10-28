@@ -58,15 +58,38 @@ RF- ENTREGADOR 02	Sistema deve permitir a busca de determinado motoboy e empresa
 ●	[busca.entregador] 
 
 
+<h1> Empresas cadastradas ( RF-04) </h1>
+Responsável:Jayvison Gonçalves Santana 
+
+Permitir avaliar tanto entregadores quanto empresas com nota por estrelas,de 1 a 5 estrelas, para que  assim os usuários possam ter recomendações previas antes de entrar em contato com os perfis,seja de empresa seja de motoboy. As estruturas de dados foram baseadas em HTML, CSS E JS.
+ 
+
+Exemplo de tela de empresas cadastradas 
+
+![Area do Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/eeab2f8d-3a7e-42f0-ba9e-11942a9fc835)
+
+Exemplos da fucionalidade aplicada:
 
 
+Exemplo 1
 
 
+![Fucionalidade1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/34897897-096c-4c68-864d-ab0d6ac1c559)
+
+Exemplo 2 
 
 
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+![Fucionalidade 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/a1a3e245-119a-4242-a277-50e6e776ee99)
+
+<h6>Instruções de acesso </h6>
+<p> Ao acessar o site e entre na area do motoboy,basta passar o mause pelas estrelas que se encontram no perfil de cada empresa e selecionar a quatidade de estrelas para avaliação.</p>
+
+
+#### Artefatos da fucionalidade 
+
+tela do Motoboy.html<br>
+tela do Motoboy.css,<br>
+script var stars = document.querySelectorAll('.star-icon');
+
+
 
