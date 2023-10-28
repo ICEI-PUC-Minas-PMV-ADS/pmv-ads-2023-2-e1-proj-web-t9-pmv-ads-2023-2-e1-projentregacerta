@@ -37,12 +37,12 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-|José Antônio|Saber o tempo e distância até o local de entrega|Planejar a melhor rota para trazer agilidade as entregas| 
-|José Antônio|Saber como está o trânsito em tempo real|Desviar de certos caminhos e encontrar o melhor percurso para as entregas| 
-|José Antônio|Saber quantos quilômetros foram percorridos|Ter controle sobre os gastos de combustível|
-|José Antônio|Saber o valor que será pago pelas corridas com antecedência|Decidir se vale a pena ou não realizar determinadas entregas|
-|Carlos Henrique|Visualizar quais motoboys são mais bem avaliados|Contratar os melhores profissionais e trazer qualidade aos atendimentos|
-|Carlos Henrique|Visualizar a distância que os pedidos foram feitos pelos clientes|Saber a média de combustível e outros gastos que serão realizados pelos entregadores e ter mais controle|
+|Entregador|Saber o tempo e distância até o local de entrega|Planejar a melhor rota para trazer agilidade as entregas| 
+|Entregador|Saber como está o trânsito em tempo real|Desviar de certos caminhos e encontrar o melhor percurso para as entregas| 
+|Entregador|Saber quantos quilômetros foram percorridos|Ter controle sobre os gastos de combustível|
+|Entregador|Saber o valor que será pago pelas corridas com antecedência|Decidir se vale a pena ou não realizar determinadas entregas|
+|Empresa|Visualizar quais motoboys são mais bem avaliados|Contratar os melhores profissionais e trazer qualidade aos atendimentos|
+|Empresa|Visualizar a distância que os pedidos foram feitos pelos clientes|Saber a média de combustível e outros gastos que serão realizados pelos entregadores e ter mais controle|
 
 ## Requisitos do Projeto
 
