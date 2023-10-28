@@ -1,8 +1,12 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O layout padrão do site foi construído com as linguagens de marcação HTML e CSS.
 
-[Apresente a estrutura padrão da sua aplicação.]
+As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
+<ul>
+  <li>Cores:RGB:#FFCE00,#000000,#FFFFFF; </li>
+  <li>Font-size:18px.</li>  <li>Font-Family:Arial</li>
+</ul>
 
 > **Links Úteis**:
 >
