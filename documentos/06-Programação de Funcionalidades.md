@@ -45,6 +45,21 @@ Exemplo da aplicação de busca:
 
 RF- ENTREGADOR 02	Sistema deve permitir a busca de determinado motoboy e empresa no sistema
 
+#### Artefatos da funcionalidade
+
+●	index.html 
+
+●	style.css
+
+●	busca.js
+
+#### Estrutura de Dados
+
+●	[busca.entregador] 
+
+
+
+
 
 
 
