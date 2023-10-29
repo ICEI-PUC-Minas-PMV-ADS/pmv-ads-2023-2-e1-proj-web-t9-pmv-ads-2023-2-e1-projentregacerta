@@ -125,3 +125,33 @@ script var stars = document.querySelectorAll('.star-icon');
  
  ● javaEmp.js
 
+
+<h1>Tela Cadastro (RF-01)</h1>
+
+ Responsável: Rodrigo Araújo Ribeiro 
+
+ A aplicação deve permitir ao usuário incluir seu perfil e realizar Login. O acesso a tela de cadastro e de Login será realizado através de botões localizados no cabeçalho da tela home.html. Ao selecionar a opção cadastro o usuário deverá insirir suas informações básicas solicitadas na tela. Para efetuar login, basta acessar a tela de Login e preencher dados de usuário e senha. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+ Exemplo tela de cadastro:
+ ![Perfil Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/funcionalidade_cadastro.png)
+
+ Exemplo tela de informações empresa:
+ ![PerfilEmpresa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/funcionalidade_login.png)
+
+ #### Requisito Atendido
+
+ RF - ENTREGADOR 01 Sistema deve permitir ao usuário (entregador) incluir seu perfil e efetuar Login.
+
+ #### Artefatos da funcionalidade
+
+ ● login.html
+ 
+ ● cadastro.html
+ 
+ ● login.css
+ 
+ ● cadastro.css
+ 
+ ● script_log.js
+ 
+ ● script_cad.js
