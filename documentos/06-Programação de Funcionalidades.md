@@ -95,33 +95,48 @@ tela do Motoboy.css,<br>
 script var stars = document.querySelectorAll('.star-icon');
 
 
-<h1>Tela perfil Empresa e Motoboy (RF-02)</h1>
+<h1>Tela perfil Motoboy (RF-02)</h1>
 
  Responsável: Vinícius Vieira 
 
- O acesso a tela de informações das empresas pode ser realizado na home page ao selecionar as empresas em "Destaques".As estruturas de dados foram baseadas em HTML, CSS e JS.
+ O acesso a tela de informações do motoboy pode ser realizado na home page do motoboy ao selecionar o ícone "USUÁRIO".As estruturas de dados foram baseadas em HTML, CSS e JS.
 
  Exemplo tela de informações motoboy:
  ![Perfil Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/tela%20Funcionalidade%20Motoboy%20Vinicius.png)
 
+ #### Requisito Atendido
+
+ RF - ENTREGADOR 02 Sistema deve permitir a visualização por parte do usuário de informações gerais a respeito do motoboy.
+
+  #### Artefatos da funcionalidade
+
+  ● perfilUsuário.html
+
+  ● style.css
+
+   ● java.js
+
+
+   <h1>Tela perfil Empresa (RF-08)</h1>
+
+   Responsável: Fernando Marques
+
+   O acesso a tela de perfil da empresa pode ser realizado na logo da empresa na tela Home.As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+  
  Exemplo tela de informações empresa:
  ![PerfilEmpresa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20Funcionalidade%20Vinicius.png)
 
- #### Requisito Atendido
+ #### Requisito atendido: 
 
- RF - ENTREGADOR 02 Sistema deve permitir a visualização por parte do usuário de informações gerais a respeito das empresas e motoboys.
+ RF- ENTREGADOR 08 |Sistema deve permitir a visualização por parte do usuário de informações gerais a respeito da empresa 
 
+ 
  #### Artefatos da funcionalidade
 
  ● perfilEmpresa.html
- 
- ● perfilUsuário.html
- 
- ● style.css
- 
+
  ● styleEmp.css
- 
- ● java.js
  
  ● javaEmp.js
 
