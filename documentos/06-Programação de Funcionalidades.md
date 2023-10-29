@@ -132,10 +132,10 @@ script var stars = document.querySelectorAll('.star-icon');
 
  A aplicação deve permitir ao usuário incluir seu perfil e realizar Login. O acesso a tela de cadastro e de Login será realizado através de botões localizados no cabeçalho da tela home.html. Ao selecionar a opção cadastro o usuário deverá insirir suas informações básicas solicitadas na tela. Para efetuar login, basta acessar a tela de Login e preencher dados de usuário e senha. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
- Exemplo tela de cadastro:
+ Exemplo tela Cadastro:
  ![Perfil Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/funcionalidade_cadastro.png)
 
- Exemplo tela de informações empresa:
+ Exemplo tela Login:
  ![PerfilEmpresa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/funcionalidade_login.png)
 
  #### Requisito Atendido
