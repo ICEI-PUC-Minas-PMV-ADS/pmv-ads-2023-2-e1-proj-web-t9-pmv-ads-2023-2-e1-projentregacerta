@@ -70,6 +70,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Gerenciamento do Projeto            | Trello                             | https://trello.com/b/9ROlePWR/entrega-certa  |
 
 
+
 ## Sprint 3
 
 ### Processo
