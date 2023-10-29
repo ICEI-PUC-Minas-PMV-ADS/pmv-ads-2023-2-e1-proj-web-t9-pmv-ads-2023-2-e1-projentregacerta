@@ -11,29 +11,39 @@ Um dos principais desafios enfrentados é a falta de comprometimento e eficiênc
 
 ## Objetivos
 
-Os objetivos do projeto de criação de um aplicativo que conecta empresas de delivery de alimentos a motoboys terceirizados e avalia tanto a empresa quanto o motoboy podem incluir:
-Eficiência no Serviço:
-Oferecer uma plataforma eficiente para as empresas de alimentos solicitarem serviços de entrega e para os motoboys aceitarem e completarem essas entregas de maneira rápida e eficaz.
-Qualidade de Serviço:
-Garantir que tanto as empresas de alimentos quanto os motoboys proporcionem um alto nível de qualidade no serviço de entrega, melhorando a experiência do cliente.
-Equilíbrio entre Avaliações:
-Criar um sistema de avaliação equilibrado que incentive empresas e motoboys a oferecerem um serviço excepcional, enquanto mantém a confiança e a justiça nas avaliações.
-Transparência e Confiança:
-Fomentar um ambiente de transparência e confiança, onde as empresas e motoboys saibam o que esperar um do outro, baseados em avaliações honestas e feedback construtivo.
-Gestão de Reputação:
-Permitir que as empresas e motoboys construam e mantenham uma boa reputação na plataforma, contribuindo para o crescimento dos seus negócios e oportunidades de trabalho.
-Acesso a Trabalho Flexível:
-Oferecer aos motoboys a oportunidade de acesso a trabalho flexível e remunerado, permitindo-lhes ajustar sua disponibilidade e horários de acordo com suas necessidades.
-Minimização de Conflitos:
-Reduzir conflitos entre empresas e motoboys, oferecendo um sistema de resolução de disputas e um canal de comunicação eficiente para lidar com problemas e preocupações.
-Conformidade Regulatória:
-Assegurar que o aplicativo esteja em conformidade com as leis trabalhistas e regulamentações relevantes, garantindo que os motoboys terceirizados tenham seus direitos protegidos.
-Suporte ao Cliente:
-Fornece um sistema de suporte ao cliente eficaz para atender a consultas, resolver roblemas e ajudar a melhorar a experiência tanto para as empresas quanto para os motoboys.
-Crescimento Sustentável:
-Promover o crescimento sustentável do negócio, atraindo mais empresas de alimentos e motoboys para a plataforma e expandindo para novas áreas geográficas.
-Inovação Contínua:
-Estimular a inovação constante, buscando maneiras de aprimorar o aplicativo, melhorar a usabilidade e oferecer recursos adicionais que atendam às necessidades de ambos os lados.
+ Os objetivos do projeto de criação de um aplicativo que conecta empresas de delivery de alimentos a motoboys terceirizados e avalia tanto a empresa quanto o motoboy podem incluir:
+
+<li>Eficiência no Serviço:
+Oferecer uma plataforma eficiente para as empresas de alimentos solicitarem serviços de entrega e para os motoboys aceitarem e completarem essas entregas de maneira rápida e eficaz.</li>
+
+<li>Qualidade de Serviço:
+Garantir que tanto as empresas de alimentos quanto os motoboys proporcionem um alto nível de qualidade no serviço de entrega, melhorando a experiência do cliente.</li>
+
+<li>Equilíbrio entre Avaliações:
+Criar um sistema de avaliação equilibrado que incentive empresas e motoboys a oferecerem um serviço excepcional, enquanto mantém a confiança e a justiça nas avaliações.</li>
+
+<li>Transparência e Confiança:
+Fomentar um ambiente de transparência e confiança, onde as empresas e motoboys saibam o que esperar um do outro, baseados em avaliações honestas e feedback construtivo.</li>
+
+<li>Gestão de Reputação:
+Permitir que as empresas e motoboys construam e mantenham uma boa reputação na plataforma, contribuindo para o crescimento dos seus negócios e oportunidades de trabalho.</li>
+
+<li> Acesso a Trabalho Flexível:
+Oferecer aos motoboys a oportunidade de acesso a trabalho flexível e remunerado, permitindo-lhes ajustar sua disponibilidade e horários de acordo com suas necessidades.</li>
+
+<li> Minimização de Conflitos:
+Reduzir conflitos entre empresas e motoboys, oferecendo um sistema de resolução de disputas e um canal de comunicação eficiente para lidar com problemas e preocupações.</li>
+
+<li> Conformidade Regulatória:
+Assegurar que o aplicativo esteja em conformidade com as leis trabalhistas e regulamentações relevantes, garantindo que os motoboys terceirizados tenham seus direitos protegidos.</li>
+
+<li> Suporte ao Cliente:
+Fornece um sistema de suporte ao cliente eficaz para atender a consultas, resolver roblemas e ajudar a melhorar a experiência tanto para as empresas quanto para os motoboys.</li>
+<li> Crescimento Sustentável:
+Promover o crescimento sustentável do negócio, atraindo mais empresas de alimentos e motoboys para a plataforma e expandindo para novas áreas geográficas.</li>
+
+<li> Inovação Contínua:
+Estimular a inovação constante, buscando maneiras de aprimorar o aplicativo, melhorar a usabilidade e oferecer recursos adicionais que atendam às necessidades de ambos os lados.</li>
 
 ## Justificativa
 
