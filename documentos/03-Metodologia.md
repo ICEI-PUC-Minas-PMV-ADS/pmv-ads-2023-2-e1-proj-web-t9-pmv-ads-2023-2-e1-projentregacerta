@@ -70,4 +70,35 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Gerenciamento do Projeto            | Trello                             | https://trello.com/b/9ROlePWR/entrega-certa  |
 
 
+## Sprint 3
+
+### Processo
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas:
+ 
+- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+- In progress: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário.
+
+  O quadro kanban do Trello esta disponivel no link https://trello.com/b/9ROlePWR/entrega-certa e e apresentado,no estado atual,na figura que se segue:
+
+  ![sprit 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Sprint%203.png)
+
+
+  ### Ferramentas
+
+As ferramentas empregadas no projeto são:
+
+- Editor de código.
+- Ferramentas de comunicação
+- Ferramentas de desenho de tela (_wireframing_)
+
+O editor de código foi escolhido porque ele possui uma integração com o
+sistema de versão. As ferramentas de comunicação utilizadas possuem
+integração semelhante e por isso foram selecionadas. Por fim, para criar
+diagramas utilizamos essa ferramenta por melhor captar as
+necessidades da nossa solução.
+
+
+
 
