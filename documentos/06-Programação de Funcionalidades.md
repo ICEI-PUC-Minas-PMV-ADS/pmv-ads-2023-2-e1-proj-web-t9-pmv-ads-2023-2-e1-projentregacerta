@@ -126,7 +126,7 @@ script var stars = document.querySelectorAll('.star-icon');
  ● javaEmp.js
 
 
-<h1>Tela Cadastro (RF-01)</h1>
+<h1>Tela Cadastro e Tela Login (RF-01)</h1>
 
  Responsável: Rodrigo Araújo Ribeiro 
 
