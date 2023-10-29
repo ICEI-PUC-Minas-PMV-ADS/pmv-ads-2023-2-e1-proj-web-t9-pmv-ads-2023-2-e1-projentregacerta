@@ -170,3 +170,9 @@ script var stars = document.querySelectorAll('.star-icon');
  ● script_log.js
  
  ● script_cad.js
+
+### Tela de Entrega  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145410641/09106a58-7fe3-42a2-b706-b42920ecc86a)
+
+
+
