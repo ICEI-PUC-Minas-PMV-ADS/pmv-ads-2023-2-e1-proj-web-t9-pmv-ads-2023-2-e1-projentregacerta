@@ -75,7 +75,7 @@ Essa tela é responsável pelas informações de endereço via GPS, calcular tra
 
 > **Tela de Acompanhamento a entrega** 
 
-Tela para acompanhar pedido do estabelecimento até a entrega na casa do cliente, consegue ver o status da entraga e regular o tempo para que não haja atrasos e nem erros de etapa, mostra o endereço do cliente e qualquer observação que o cliente tenha deixado. 
+Tela para acompanhar pedido do estabelecimento até a entrega na casa do cliente, consegue ver o status da entrega e regular o tempo para que não haja atrasos e nem erros de etapa, mostra o endereço do cliente e qualquer observação que o cliente tenha deixado. 
 
 ![Tela de  entrega atualizada](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/6278fcb0-8c60-491b-9eb6-715b2321c0e4)
 
