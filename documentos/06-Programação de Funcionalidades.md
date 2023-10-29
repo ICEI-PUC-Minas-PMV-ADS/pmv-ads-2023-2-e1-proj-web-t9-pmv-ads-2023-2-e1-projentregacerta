@@ -29,7 +29,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 
 
-<h1> Tela de entregadores cadastrados (RF-06) </h1>
+<h1> Tela de entregadores cadastrados (RF-09) </h1>
 
 Responsável: Diego Chagas de Souza
 
@@ -46,7 +46,7 @@ O acesso a lista de entregadores cadastrados poderá ser feito através da home 
 
 #### Requisito atendido
 
-RF- ENTREGADOR 06	Sistema deve permitir a busca de determinado motoboy no sistema
+RF- EMPRESA 09 -	Sistema deve permitir a empresa fazer a busca de determinado motoboy cadastrado no sistema
 
 #### Artefatos da funcionalidade
 
