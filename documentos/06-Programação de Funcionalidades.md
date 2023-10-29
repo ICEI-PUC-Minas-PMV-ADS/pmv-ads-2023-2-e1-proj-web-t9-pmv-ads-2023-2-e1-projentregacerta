@@ -29,7 +29,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 
 
-<h1> Tela de entregadores cadastrados (RF-02) </h1>
+<h1> Tela de entregadores cadastrados (RF-06) </h1>
 
 Responsável: Diego Chagas de Souza
 
