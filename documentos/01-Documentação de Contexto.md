@@ -53,7 +53,7 @@ Facilidade ao usuário verificar todos os pedidos feitos a ele, seja histórico 
 Fornecer ao usuário um GPS onde ele tenha facilidade em seguir o caminho e quando necessário ver o pedido.  </li> 
 
 <li> Pagamento: 
-Segurança na hora do receber o pagamento e que ele seja feito de forma correta. </li>
+Segurança na hora de receber o pagamento e que ele seja feito de forma correta. </li>
 
 
 
