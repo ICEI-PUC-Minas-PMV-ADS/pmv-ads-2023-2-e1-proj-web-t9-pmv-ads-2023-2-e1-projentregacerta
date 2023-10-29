@@ -35,27 +35,30 @@ Responsável: Diego Chagas de Souza
 
 O acesso a lista de entregadores cadastrados poderá ser feito através da home page, a qual sera acessada apenas pela empresa logada no sistema. Essa tela deve permitir que a empresa faça a busca do entregador por nome e consulte suas avaliações através das estrelas. As estruturas de dados foram baseadas em HTML, CSS E JS.
 
-Exemplo da tela de entregadores cadastrados:
-![Tela lista de entregadores github 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/101624093/77be62e1-0cd1-409b-ac24-7d9e197e5303)
-Exemplo da aplicação de busca:
-![Tela lista de entregadores git 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/101624093/6880f128-bf21-4740-9c08-04f7b73f82d8)
+<h3> Exemplo da tela de entregadores cadastrados: </h3>
+
+![Tela lista motoboys git 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/101624093/d2f3d5a8-d11c-4cea-aa00-6fef49989750)
+<h3> Exemplo da aplicação de busca: </h3>
+
+![tela busca lista motoboys git 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/101624093/715b040c-6237-4f48-b434-d9342ab9e6bd)
+
 
 
 #### Requisito atendido
 
-RF- ENTREGADOR 02	Sistema deve permitir a busca de determinado motoboy e empresa no sistema
+RF- ENTREGADOR 02	Sistema deve permitir a busca de determinado motoboy no sistema
 
 #### Artefatos da funcionalidade
 
-●	index.html 
+●	tela-lista-motoboy.html 
 
-●	style.css
+●	tela-lista-motoboy.css
 
-●	busca.js
+●	busca_motoboy.js
 
 #### Estrutura de Dados
 
-●	[busca.entregador] 
+●	[busca_motoboy] 
 
 
 <h1> Empresas cadastradas ( RF-04) </h1>
