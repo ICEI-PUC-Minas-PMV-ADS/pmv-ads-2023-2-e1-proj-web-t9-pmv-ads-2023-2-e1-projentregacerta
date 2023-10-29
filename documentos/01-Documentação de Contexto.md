@@ -43,6 +43,21 @@ Promover o crescimento sustentável do negócio, atraindo mais empresas de alime
 <li> Inovação Contínua:
 Estimular a inovação constante, buscando maneiras de aprimorar o aplicativo, melhorar a usabilidade e oferecer recursos adicionais que atendam às necessidades de ambos os lados.</li>
 
+<li> Rastreamento de pedido: 
+garantir que ao usuário (empresa) consiga localizar e acompanhar os pedidos onde estão </li> 
+
+<li> pedidos: 
+Facilidade ao usuário verificar todos os pedidos feitos a ele, seja histórico de pedido concluído ou ainda em atividade. </li> 
+
+<li> Caminho: 
+Fornecer ao usuário um GPS onde ele tenha facilidade em seguir o caminho e quando necessário ver o pedido.  </li> 
+
+<li> Pagamento: 
+Segurança na hora de receber o pagamento e que ele seja feito de forma correta. </li>
+
+
+
+
 
 ## Justificativa
 
