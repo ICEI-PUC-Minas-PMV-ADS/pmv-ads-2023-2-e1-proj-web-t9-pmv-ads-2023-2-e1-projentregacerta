@@ -57,7 +57,7 @@
 | RF- ENTREGADOR 05 |Sistema deve permitir ao usuário (responsável do estabelecimento contratante) incluir seus dados cadastrais (endereço, horário de funcionamento, valor pago por entrega, se o estabelecimento possui veículo)| ALTA |
 | RF- ENTREGADOR 06 |Sistema deve permitir ao usuário (responsável do estabelecimento contratante) ter acesso a informações cadastrais do entregador, tais como: modelo do veículo, dados de NCH, horário disponível para entrega| ALTA |
 | RF- ENTREGADOR 07 |Sistema deve permitir ao usuário (entregador) ter acesso a "nota" do entregador (exemplo: tempo de entrega, condições do produto na entrega, avaliação do cliente em relação a comunicação do entregador)| ALTA |
-| RF ENTREGADOR 08 |Sistema deve permitir a visualização por parte do usuário de informações gerais a respeito do motoboy|ALTA|
+| RF ENTREGADOR 08 |Sistema deve permitir a visualização por parte do usuário de informações gerais a respeito da empresa|ALTA|
 
 ### Requisitos não Funcionais
 
