@@ -46,7 +46,7 @@ O acesso a lista de entregadores cadastrados poderá ser feito através da home 
 
 #### Requisito atendido
 
-RF- ENTREGADOR 02	Sistema deve permitir a busca de determinado motoboy no sistema
+RF- ENTREGADOR 06	Sistema deve permitir a busca de determinado motoboy no sistema
 
 #### Artefatos da funcionalidade
 
@@ -95,4 +95,33 @@ tela do Motoboy.css,<br>
 script var stars = document.querySelectorAll('.star-icon');
 
 
+<h1>Tela perfil Empresa e Motoboy (RF-02)</h1>
+
+ Responsável: Vinícius Vieira 
+
+ O acesso a tela de informações das empresas pode ser realizado na home page ao selecionar as empresas em "Destaques".As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+ Exemplo tela de informações motoboy:
+ ![Perfil Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/tela%20Funcionalidade%20Motoboy%20Vinicius.png)
+
+ Exemplo tela de informações empresa:
+ ![PerfilEmpresa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/Tela%20Funcionalidade%20Vinicius.png)
+
+ #### Requisito Atendido
+
+ RF - ENTREGADOR 02 Sistema deve permitir a visualização por parte do usuário de informações gerais a respeito das empresas e motoboys.
+
+ #### Artefatos da funcionalidade
+
+ ● perfilEmpresa.html
+ 
+ ● perfilUsuário.html
+ 
+ ● style.css
+ 
+ ● styleEmp.css
+ 
+ ● java.js
+ 
+ ● javaEmp.js
 
