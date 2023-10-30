@@ -16,6 +16,16 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 
 <li> Font-size: entre 16px à 50px. </li>
 </ul>
+<h3>Tela home</h3>
+<div align="left">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/101624093/99e7dd4d-b933-4a57-bece-368373c42b86" width="600px" height="600px"/>
+</div>
+<p> Esse layout(header e footer) será exibido em todas as páginas da aplicação, exceto nas de perfil de entregador e empresa. A escolha da cor amarela(#ffce00) se deu por ser uma das cores mais visíveis e chamativas no espectro de cores. Ela atrai a atenção dos visitantes do site de forma instantânea, destacando-se em meio a outros elementos. Para um serviço de entregadores e delivery, é essencial que os usuários identifiquem facilmente sua marca e entendam que se trata de um serviço de entrega imediata. O amarelo faz isso de maneira eficaz. </p>
+<h3>Tela perfil</h3>
+<div align="left">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/101624093/39bc4053-4fba-4eed-a917-61d5722094ed"/>
+</div>
+<p> Este sera o layout das telas de perfil de empresa e entregador, foi utilizado a cor azul(#0099CC) no botão buscar, essa cor foi escolhida de fato de ter facil visibilidade para que o usuário possa identificar facilmente. A cor azul transmite essa sensação de confiabilidade, tornando os usuários mais propensos a confiar no serviço. </p>
 
 
 
@@ -24,11 +34,6 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 
 
 
-
-<ul>
-  <li>Cores:RGB:#FFCE00,#000000,#FFFFFF; </li>
-  <li>Font-size:18px.</li>  <li>Font-Family:Arial</li>
-</ul>
 
 > **Links Úteis**:
 >
