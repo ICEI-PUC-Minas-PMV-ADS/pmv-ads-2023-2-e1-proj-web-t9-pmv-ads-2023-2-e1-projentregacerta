@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&family=Montserrat:ital@1&display=swap" rel="stylesheet');
 *{
     margin: 0;
     padding: 0;
+}
+
+:root{
+  --fonte-primaria: 'Dosis', sans-serif;
+  --fonte-secundaria:'Montserrat',sans-serif;
 }
 
 
@@ -42,10 +48,12 @@
     border-radius:10px;
     margin: 20px;
     padding: 10px;
+    font-family:var(--fonte-primaria);
   }
 
   .titulo1{
     margin: 4%;
+    font-family: 'Dosis', sans-serif;
   }
   .conteudo_melhores{
     display: flex;
@@ -64,6 +72,7 @@
 
   .tituloDepoimentos{
     margin: 4%;
+    font-family: var(--fonte-primaria);
   }
   .depoimentos{
 
@@ -90,10 +99,16 @@
 
   .nomeUsuario{
     margin-left: 2%;
+    font-family: var(--fonte-primaria);
+  }
+
+  .tituloUsuario{
+    font-family:var(--fonte-secundaria);
   }
 
   .rodape{
     background-color: #ffce00;
     text-align: center;
     padding: 30px;
+    font-family:var(--fonte-primaria);
   }
