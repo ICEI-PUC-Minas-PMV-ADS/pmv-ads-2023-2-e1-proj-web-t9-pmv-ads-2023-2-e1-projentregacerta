@@ -6,7 +6,7 @@
 
 `2º semestre/2023`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos usuários encontrarem uma oportunidade de emprego para a realização de entregas e também funcionários capacitados para faze-las.  
 
 ## Integrantes
 
