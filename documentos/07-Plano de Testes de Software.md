@@ -29,7 +29,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   
    </ul>
   </td>
-  <td>Verificar se os sistema esta encontrando os dados inseridos pelo usuario, neste caso o nome ou sobrenome do entregador.</td>
+  <td>Verificar se o sistema esta encontrando os dados inseridos pelo usuário, neste caso o nome ou sobrenome do entregador.</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
@@ -40,6 +40,40 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </td>
   <td>O sistema deve localizar e exibir os dados inseridos na barra de busca dos entregadores.</td>
   <td>Diego</td>
+ </tr>
+</table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-02: Verificar perfil de usuários</td>
+  <td>
+   <ul>
+    <li>RF- 2 Site deve permitir a visualização por parte do usuário de informações gerais a respeito do motoboy</li>
+  
+   </ul>
+  </td>
+  <td>Verificar se o sistema esta exibindo todas as informações a respeito do motoboy selecionado pelo usuário.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em cadastre-se.</li>
+    <li>selecionar "empregador" e se cadastrar</li>
+    <li>Selecionar "usuário"</li>
+   </ol>
+   </td>
+  <td>O sistema deve permitir a visualização de todas as informações incluindo imagem, histórico de entregas, avaliação, experiência profissional.</td>
+  <td>Vinícius Vieira</td>
  </tr>
 </table>
  
