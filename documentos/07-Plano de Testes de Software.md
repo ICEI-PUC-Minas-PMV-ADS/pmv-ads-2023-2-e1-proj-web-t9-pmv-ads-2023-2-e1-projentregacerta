@@ -26,6 +26,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <td>
    <ul>
     <li>RF- EMPRESA 09	Sistema deve permitir a empresa buscar o nome do entregador na lista de entregadores cadastrados</li>
+    <li>RF-04	 O sistema deve permitir que o usuário do site consiga selecionar a quantidade de estrelas desejadas para avaliar o perfil da  empresa ou motoboy de 1 a 5 estrelas. </li>
   
    </ul>
   </td>
@@ -36,6 +37,9 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
     <li>Informar o endereço do site.</li>
     <li>Visualizar a página Home.</li>
     <li>Clicar nos links da página Home.</li>
+    <li> Acessar a página lista entregadores cadastrados </li>
+    <li> inserir o dado a ser pesquisado na barra de busca </li>
+    
    </ol>
    </td>
   <td>O sistema deve localizar e exibir os dados inseridos na barra de busca dos entregadores.</td>
