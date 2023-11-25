@@ -15,6 +15,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 <ol>
   <li> CT-01: Verificar se a barra de pesquisa esta retornando os dados pesquisados pelos usuários.
 
+  Responsável: Diego.
+
 ![plano de testes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/101624093/e9acccf2-0c3d-4a59-90ba-f871826d8883)
 
 <p> Na imagem acima, o sistema retornou correntamente o nome pesquisado pelo usuário</p>
@@ -25,8 +27,9 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 <p> Nessa última imagem, o sistema não retornou nenhum dado, pois o nome pesquisado não foi cadastrado.</p>
 
 
+  <li> CT - 02: Verificar perfil de usuários.</li>
+  
+  Responsável : Vinícius Vieira
 
-
-
-
-  Responsável: Diego.
+ 
+ ![Perfil Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/tela%20Funcionalidade%20Motoboy%20Vinicius.png)
