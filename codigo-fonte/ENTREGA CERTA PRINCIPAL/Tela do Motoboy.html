@@ -98,18 +98,29 @@ padding: 10px;
             <li class="star-icon" data-avaliacao="5"></li>
           </ul>
           <script>
-            var stars = document.querySelectorAll('.star-icon');
-                  
-                  document.addEventListener('click', function(e){
-                    var classStar = e.target.classList;
-                    if(!classStar.contains('ativo')){
-                      stars.forEach(function(star){
-                        star.classList.remove('ativo');
-                      });
-                      classStar.add('ativo');
-                      console.log(e.target.getAttribute('data-avaliacao'));
-                    }
-                  });
+           var stars = document.querySelectorAll('.star-icon');
+var ratings = []; // Um array para armazenar as classificações de cada div
+
+document.addEventListener('click', function (e) {
+  var classStar = e.target.classList;
+  if (!classStar.contains('ativo')) {
+    var rating = parseInt(e.target.getAttribute('data-avaliacao'));
+    var divIndex = Array.from(e.target.parentElement.children).indexOf(e.target);
+
+    // Remova a classe 'ativo' de todas as estrelas na mesma div
+    Array.from(e.target.parentElement.children).forEach(function (star) {
+      star.classList.remove('ativo');
+    });
+
+    // Adicione a classe 'ativo' à estrela clicada
+    classStar.add('ativo');
+
+    // Atualize a classificação para a div correspondente no array de classificações
+    ratings[divIndex] = rating;
+
+    console.log('Classificação da div ' + divIndex + ': ' + ratings[divIndex]);
+  }
+});
           </script>
         <button> Ver mais </button>
     </div> 
