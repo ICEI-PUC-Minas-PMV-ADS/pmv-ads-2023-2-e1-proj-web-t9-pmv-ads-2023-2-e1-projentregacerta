@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tela lista de motoboys cadastrados</title>
+    <link rel="stylesheet" href="tela-lista-motoboy.css">
+    <script src="busca_motoboy.js"></script>
+
+    <header class="cabecalho">
+        <nav class="cabecalho__menu">
+            <a class="logo" href="/homeMotoboy.html"><img src="img/logoAmarelo.jpg" alt="logo" style="width: 70px;"></a>
+        </nav>
+        <div id="divBusca">
+            <input type="text" id="txtBusca" placeholder="Buscar..." />
+            <img src="img/search.png" id="btnBusca" alt="Buscar" style="width: 20px;" />
+        </div>
+        <a class="loginCadastrar" href="login.html">LOGIN</a>
+        <a class="loginCadastrar" href="login.html">CADASTRE-SE</a>
+    </header>
+
+</head>
+
+<body>
+    <section class="conteiner">
+        <img src="img/pexels-alex-green-5699475.jpg" alt="imagem da empresa" width="1200px"
+            height="300px">
+        <div class="corpo">
+            <h1>Area da empresa</h1>
+            <h2>Lista de entregadores cadastrados:</h2>
+        </div>
+    </section>
+
+    <main>
+        <div class="barra de pesquisa">
+            <input type="search" type="text" name="search" placeholder="pesquisar motoboy" id="searchInput">
+            <button type="button" onclick="pesquisarMotoboy()">
+                <p>Buscar</p>
+
+            </button>
+        </div>
+
+        <div class="motoboy-container">
+            <div class="motoboy" id="m1"> <img src="img/motoboy-icone.png" width="100px"
+                    height="100px">
+                <p>motoboy 1 </p>
+                <p>Daniel marques </p>
+                <ul class="avaliacao">
+                    <li class="star-icon ativo" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <button id="botaodadiv" type="button">
+                    <p>ver mais</p>
+                </button>
+            </div>
+            <div class="motoboy" id="m2"> <img src="img/motoboy-icone.png" width="100px"
+                    height="100px">
+                <p> motoboy 2</p>
+                <p>Jack wilson</p>
+                <ul class="avaliacao">
+                    <li class="star-icon ativo" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <button id="botaodadiv" type="button">
+                    <p>ver mais</p>
+                </button>
+            </div>
+            <div class="motoboy" id="m3"> <img src="img/motoboy-icone.png" width="100px"
+                    height="100px">
+                <p>motoboy 3</p>
+                <p>Vilmar assunção</p>
+                <ul class="avaliacao">
+                    <li class="star-icon ativo" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <button id="botaodadiv" type="button">
+                    <p>ver mais</p>
+                </button>
+            </div>
+            <div class="motoboy" id="m4"> <img src="img/motoboy-icone.png" width="100px"
+                    height="100px">
+                <p>motoboy 4 </p>
+                <p>Anderson marques</p>
+                <ul class="avaliacao">
+                    <li class="star-icon ativo" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <button id="botaodadiv" type="button">
+                    <p>ver mais</p>
+                </button>
+            </div>
+            <div class="motoboy" id="m5"> <img src="img/motoboy-icone.png" width="100px"
+                    height="100px">
+                <p>motoboy 5</p>
+                <p> Claudio castro </p>
+                <ul class="avaliacao">
+                    <li class="star-icon ativo" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <button id="botaodadiv" type="button">
+                    <p>ver mais</p>
+                </button>
+            </div>
+            <div class="motoboy" id="m6"> <img src="img/motoboy-icone.png" width="100px"
+                    height="100px">
+                <p> motoboy 6 </p>
+                <p>Mario gomes</p>
+                <ul class="avaliacao">
+                    <li class="star-icon ativo" data-avaliacao="1"></li>
+                    <li class="star-icon" data-avaliacao="2"></li>
+                    <li class="star-icon" data-avaliacao="3"></li>
+                    <li class="star-icon" data-avaliacao="4"></li>
+                    <li class="star-icon" data-avaliacao="5"></li>
+                </ul>
+                <button id="botaodadiv" type="button">
+                    <p>ver mais</p>
+                </button>
+            </div>
+        </div>
+    </main>
+    <footer class="rodape">Copyright © 2023 Entrega certa | Todos os direitos reservados.</footer>
+
+
+
+
+</body>
+
+</html>
