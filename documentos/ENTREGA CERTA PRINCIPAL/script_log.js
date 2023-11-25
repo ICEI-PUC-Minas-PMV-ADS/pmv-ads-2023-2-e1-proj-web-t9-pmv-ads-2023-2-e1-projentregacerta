@@ -5,6 +5,7 @@ elem0.addEventListener('click', function (fLogin) {
     let usuarioValid = {
         usuarioLog: '',
         passwordLog: '',
+        apelidoLog: '',
         selecaoLog: ''
     }
 
@@ -14,6 +15,7 @@ elem0.addEventListener('click', function (fLogin) {
             usuarioValid = {
                 usuarioLog: item.usuarioCad,
                 passwordLog: item.passwordCad,
+                apelidoLog: item.apelidoCad,
                 selecaoLog: item.selecaoCad
             }
         }
@@ -24,6 +26,9 @@ elem0.addEventListener('click', function (fLogin) {
 
     if (usuario0 == usuarioValid.usuarioLog && password0 == usuarioValid.passwordLog) {
         alert("Login efetuado com sucesso");
+        alert(usuarioValid.selecaoLog);
+        const apelido0 = usuarioValid.apelidoLog;
+        localStorage.setItem("apelido0", apelido0);
 
         if (usuarioValid.selecaoLog == 0) {
             location.href = "homeEmpregador.html";
