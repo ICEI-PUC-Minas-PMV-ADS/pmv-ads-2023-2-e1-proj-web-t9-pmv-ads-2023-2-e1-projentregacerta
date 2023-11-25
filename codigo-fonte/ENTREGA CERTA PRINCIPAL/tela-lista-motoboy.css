@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&family=Montserrat:ital@1&display=swap" rel="stylesheet');
+:root{
+  --fonte-primaria: 'Dosis', sans-serif;
+  --fonte-secundaria:'Montserrat',sans-serif;}
 * {
     margin: 0;
     padding: 0;
@@ -8,8 +12,7 @@
     justify-content: space-around;
     background-color: #ffce00;
     padding: 0px;
-    font-family: 'Montserrat',sans-serif;
-    
+    font-family: 'Montserrat',sans-serif;;
 }
 .logo{
   max-width: 100%; /* Defina uma largura máxima para o logo */
@@ -53,7 +56,7 @@
   }
 
 /* barra de pesquisa do nome do motoboy*/
-   .barra  {
+  .barra  {
     width: 150px;
     font-size: 16px;
     margin: 2px 0 2px px;
@@ -68,7 +71,6 @@
     display: flex; 
     align-items: center; 
     
-
 
     
 }
@@ -89,7 +91,8 @@ button{
 }
 /* as 6 divs das informações do motoboy*/
 .motoboy {
-     background-color:  rgb(197, 194, 194);
+
+    background-color:  rgb(197, 194, 194);
     color: black;
     .avaliacao {
       background-color:  rgb(197, 194, 194);
@@ -108,12 +111,10 @@ button{
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 5px;
-
-  
+    
        
 }
-
-#botaodadiv{
+.botaodadiv{
     font-family: Arial, Helvetica, sans-serif;
     background-color: floralwhite
     
@@ -183,6 +184,6 @@ body{
     background-color: #ffce00;
     text-align: center;
     padding: 30px;
-    font-family: 'Montserrat',sans-serif;
-    
+    font-family: 'Montserrat',sans-serif;;
+
   }
