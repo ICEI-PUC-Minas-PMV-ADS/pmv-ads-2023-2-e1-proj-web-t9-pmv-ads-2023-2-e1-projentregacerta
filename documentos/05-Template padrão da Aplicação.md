@@ -14,7 +14,7 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 
 <li> background-color:  #000000; (botão login, cadastro e barra de busca) </li>
 
-<li> Font-family: Arial, Helvetica, sans-serif </li>
+<li> Font-family: Dosis, Montserrat </li>
 
 <li> Font-size: entre 16px à 24px </li>
 
