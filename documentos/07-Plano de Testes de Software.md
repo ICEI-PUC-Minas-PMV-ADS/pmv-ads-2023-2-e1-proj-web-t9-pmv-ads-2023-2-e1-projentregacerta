@@ -73,7 +73,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
     <li>Visualizar a página Home.</li>
     <li>Clicar em cadastre-se.</li>
     <li>selecionar "empregador" e se cadastrar</li>
-    <li>Selecionar "usuário"</li>
+    <li>Selecionar "empregador"</li>
+    <li>Selecionar ver mais da empresa desejada</li>
    </ol>
    </td>
   <td>O sistema deve permitir a visualização de todas as informações incluindo imagem, histórico de entregas, avaliação, experiência profissional.</td>
