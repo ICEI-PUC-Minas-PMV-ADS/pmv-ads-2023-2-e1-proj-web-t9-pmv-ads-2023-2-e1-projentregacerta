@@ -4,6 +4,7 @@ elem1.addEventListener('click', function (fCadastro) {
     const password1 = document.getElementById('senha-cadastro').value;
     const conferepassword1 = document.getElementById('confere-senha-cadastro').value;
 
+
     if (usuario1 == "" || password1 == "" || conferepassword1 == "") {
         alert("Os campos e-mail e senha são obrigatórios");
     }
@@ -23,7 +24,8 @@ elem1.addEventListener('click', function (fCadastro) {
                 {
                     usuarioCad: document.getElementById('e-mail-cadastro').value,
                     passwordCad: document.getElementById('senha-cadastro').value,
-                    selecaoCad: document.getElementById('confere-senha-cadastro').value
+                    apelidoCad: document.getElementById('apelido').value,
+                    selecaoCad: document.querySelector('input[name="tipo"]:checked').value 
                 });
 
 
