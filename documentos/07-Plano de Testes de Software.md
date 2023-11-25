@@ -86,24 +86,25 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: Verificar o funcionamento da barra de busca na tela lista de entregadores cadastrados</td>
+  <td>CT-03:    Verificar se a fucionalidade de avaliação por estrelas está fucionando. </td>
   <td>
    <ul>
-    <li>RF- EMPRESA 09	Sistema deve permitir a empresa buscar o nome do entregador na lista de entregadores cadastrados</li>
+    <li>RF-04	     O sistema deve permitir que o usuário do site consiga selecionar a quantidade de estrelas desejadas para avaliar o perfil da  empresa ou motoboy de 1 a 5 estrelas. </li>
   
    </ul>
   </td>
-  <td>Verificar se o sistema esta encontrando os dados inseridos pelo usuário, neste caso o nome ou sobrenome do entregador.</td>
+  <td>Verificar se cada perfil permanece com a quantidade de estrelas selecionadas pelo o usuário,ao selecionar cada perfil .</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
     <li>Informar o endereço do site.</li>
     <li>Visualizar a página Home.</li>
     <li>Clicar nos links da página Home.</li>
+    <li> Ir até um perfil do site e selecionar a quantidade de estrelas desejadas </li>
    </ol>
    </td>
-  <td>O sistema deve localizar e exibir os dados inseridos na barra de busca dos entregadores.</td>
-  <td>Diego</td>
+  <td>As estrelas devem permanecer na quantidade selecionada pelo usuário para cada perfil.</td>
+  <td>Jayvison Santana </td>
  </tr>
 </table>
  
