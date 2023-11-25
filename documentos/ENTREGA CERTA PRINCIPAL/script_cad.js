@@ -3,23 +3,6 @@ elem1.addEventListener('click', function (fCadastro) {
     const usuario1 = document.getElementById('e-mail-cadastro').value;
     const password1 = document.getElementById('senha-cadastro').value;
     const conferepassword1 = document.getElementById('confere-senha-cadastro').value;
-    const jatemcadastro = 0;
-    let usuarioValid1 = {
-        usuarioCheck: '',
-        passworCheck: '',
-        selecaoCheck: ''
-    }
-
-
-    let listaUsuario = {
-        usuarioCad: 'admin',
-        passwordCad: 'admin',
-        selecaoCad: 1
-
-    }
-
-    localStorage.setItem('listaUsuario', JSON.stringify(listaUsuario));
-
 
     if (usuario1 == "" || password1 == "" || conferepassword1 == "") {
         alert("Os campos e-mail e senha são obrigatórios");
@@ -30,40 +13,27 @@ elem1.addEventListener('click', function (fCadastro) {
 
     if (usuario1 != "" && password1 == conferepassword1) {
 
+        let listaUsuario = JSON.parse(localStorage.getItem('listaUsuario') || '[]');
 
-        listaUsuario = JSON.parse(localStorage.getItem('listaUsuario'));
-        listaUsuario.forEach((item) => {
-            if (usuario1 == item.usuarioCad) {
-                usuarioValid1 = {
-                    usuarioCheck: item.usuarioCad,
-                    passworCheck: item.passwordCad,
-                    selecaoCheck: item.selecaoCad
-                }
-                auxCheck = 1;
-            }
-        })
-
-
-        if (auxCheck == 1) {
-            alert("Cadastro não efetuado, usuário já existente");
-        } else {
-
-            let listaUsuario = JSON.parse(localStorage.getItem('listaUsuario') || '[]');
+        if (listaUsuario.some(item => item.usuarioCad === usuario1)) {
+            alert("Erro: usuário já cadastrado");
+        }
+        else {
             listaUsuario.push(
                 {
                     usuarioCad: document.getElementById('e-mail-cadastro').value,
                     passwordCad: document.getElementById('senha-cadastro').value,
-                    selecaoCad: document.querySelector('input[name="tipo"]:checked').value
+                    selecaoCad: document.getElementById('confere-senha-cadastro').value
+                });
 
-                }
 
-            )
+            alert("Cadastro efetuado com sucesso");
+            localStorage.setItem('listaUsuario', JSON.stringify(listaUsuario));
+
+            location.href = "login.html";
+
         }
-        alert("Cadastro efetuado com sucesso");
-        localStorage.setItem('listaUsuario', JSON.stringify(listaUsuario));
-        location.href = "login.html";    
-
-
     }
+
 
 }, false);
