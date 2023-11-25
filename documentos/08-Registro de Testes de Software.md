@@ -22,7 +22,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![plano de testes 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/101624093/fb4543ef-f885-4341-ac07-48d0e64bc8e4)
 
 
-<p> Nessa última imagem, o sistema não retornou nenhum dados, pois o nome pesquisado não foi cadastrado.</p>
+<p> Nessa última imagem, o sistema não retornou nenhum dado, pois o nome pesquisado não foi cadastrado.</p>
 
 
 
