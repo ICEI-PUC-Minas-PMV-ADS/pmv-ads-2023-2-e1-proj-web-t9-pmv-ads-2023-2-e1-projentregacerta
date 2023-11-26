@@ -73,3 +73,20 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 ![plano de testes 2](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/main/documentos/img/login%20efetuado%20com%20sucesso.png)
 
 <p> Na imagem acima, o sistema efetuou o login com sucesso devido as informações de e-mail e senha concidirem com as previamente cadastradas. </p>
+
+<li> CT-03 Verificar a fucionalidade de avaliação por estrelas</li>
+Responsável Jayvison Santana 
+
+![Registro de teste 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/52573886-7c7d-46da-84dd-3adc2263bbf1)
+
+
+
+<p>Nesta primeira imagem é possivel ver que todos os perfis possuem 5 estrelas de avaliação.</p>
+
+
+![Resgitro de texte ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/dd6c21bf-efa9-4904-8cfd-a508d8753da0)
+
+<p> Nesta segunda imagem é nota-se que cada perfil possui uma avaliação difrente sendo de 1 até 5 estrelas </p>
+
+
+
