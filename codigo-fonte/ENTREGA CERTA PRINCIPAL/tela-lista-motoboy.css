@@ -30,6 +30,7 @@
   #btnBusca {
     float: right; /* Alinhe a imagem à direita */
     padding-right: 20px;
+    
 }
   
   #txtBusca{
@@ -74,15 +75,22 @@
 
     
 }
-button{
-  
-    background-color: #007bff; 
-    color: #fff; 
-    border: none; 
-    padding: 3px 5px; 
-    cursor: pointer; 
-
+.button, button.loginCadastrar {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 3px 5px;
+  cursor: pointer;
+  /* Adicione outros estilos necessários */
 }
+button{
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 3px 5px;
+  cursor: pointer;
+}
+
 .motoboy-container {
     display: flex;
     justify-content: space-between;
