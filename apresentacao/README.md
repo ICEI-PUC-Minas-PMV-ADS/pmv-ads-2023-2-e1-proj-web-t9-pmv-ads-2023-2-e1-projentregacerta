@@ -22,4 +22,5 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 
 ## Hospedagem
 
-[https://6563721a19313908b0a745db--silver-belekoy-55d34e.netlify.app/]
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://6563721a19313908b0a745db--silver-belekoy-55d34e.netlify.app/"> aqui</a> para acessá-lo.
+
