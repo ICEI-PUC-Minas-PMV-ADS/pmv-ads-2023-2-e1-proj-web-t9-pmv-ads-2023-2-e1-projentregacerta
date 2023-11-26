@@ -61,3 +61,15 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 <p> Na imagem acima, o sistema não permitiu o cadastro, devido esse usuário já estar previamente cadastrado.</p>
 
+
+<li> CT-05: CT-05: Verificar o funcionamento do login de usuário.
+
+  Responsável: Rodrigo.
+
+![plano de testes](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/main/documentos/img/nome%20de%20usu%C3%A1rio%20e%20senha%20n%C3%A3o%20conferem.png)
+
+<p> Na imagem acima, o sistema retornou que os campos de e-mail e senha não conferem, ou por não estar cadastrado previamente ou devido a senha estar diferente da cadastrada previamente. O teste também dá o mesmo retorno em caso de não preenchimento do e-mail ou senha.</p>
+
+![plano de testes 2](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/main/documentos/img/login%20efetuado%20com%20sucesso.png)
+
+<p> Na imagem acima, o sistema efetuou o login com sucesso devido as informações de e-mail e senha concidirem com as previamente cadastradas.</p>
