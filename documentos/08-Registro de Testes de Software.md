@@ -72,4 +72,4 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 ![plano de testes 2](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/main/documentos/img/login%20efetuado%20com%20sucesso.png)
 
-<p> Na imagem acima, o sistema efetuou o login com sucesso devido as informações de e-mail e senha concidirem com as previamente cadastradas.</p>
+<p> Na imagem acima, o sistema efetuou o login com sucesso devido as informações de e-mail e senha concidirem com as previamente cadastradas. </p>
