@@ -112,5 +112,73 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <td>Jayvison Santana </td>
  </tr>
 </table>
- 
+
+ <table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-04: Verificar o funcionamento do cadastro de usuário</td>
+  <td>
+   <ul>
+    <li>RF- EMPRESA 01	Sistema deve permitir cadastro de usuários, tanto empregador quanto entregador. </li>
+  
+   </ul>
+  </td>
+  <td>Verificar se dados cadastrais estão sendo memorizados corretamente, se o sistema bloqueia cadastro de mesmo usuário (a fim de evitar duplicação), se o sistema não permite cadastro com informações essencias necessárias (tais como e-mail e senha).</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li> Clicar no link Cadastro.</li>
+    <li> Preencher informações de cadastro solicitadas de diversas maneiras, dentre elas: faltando inserção de e-mail, colocando senha e verificação de senhas difenrentes, não inserindo a senha, e finalmente inserindo todas as informações corretas, inserindo novamente todas as informações corretas de outro usuário e por fim, inserindo todas as informações corretas de um dos usuários já cadastrados, porém com senha diferente</li>
+        
+   </ol>
+   </td>
+  <td>O sistema não deve permitir cadastro de usuários se não for inserido e-mail e/ou senha, não deve permitir cadastro caso senha e confirmação de senha estiverem diferentes e caso o usuário já estiver previamente cadastrados. O sistema deve permitir o cadastro quando as informaçãoes essenciais, tais como e-mail, senha e confime senha estiverem adequadamente preenchidos.</td>
+  <td>Rodrigo</td>
+ </tr>
+</table>
+
+ <table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-05: Verificar o funcionamento do login de usuário</td>
+  <td>
+   <ul>
+    <li>RF- EMPRESA 01	Sistema deve realizar login de usuário, tanto empregador quanto entregador. </li>
+  
+   </ul>
+  </td>
+  <td>Verificar se ao efetuar a inserção dos dados de e-mail e senha o sistema efetua o login e direciona à tela de entregador ou empregador de acordo com o cadastro prévio.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar no link Login.</li>
+    <li>Preencher informações de e-mail e senha diferente do previamente cadastrados, preencher dados de e-mail e senha idêntico ao previamente cadastrado</li>
+        
+   </ol>
+   </td>
+  <td>O sistema não deve permitir login em caso de dados inseridos na tela de login diferente do previamente cadastrado, e para inserção de dados previamente cadastrados, o sistema deverá efetuar o login do usuário e direcioná-lo a tela de empregador ou entregador, de acordo com o cadastro prévio realizado.</td>
+  <td>Rodrigo</td>
+ </tr>
+</table>
+
+
+
 
