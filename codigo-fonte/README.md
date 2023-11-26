@@ -12,6 +12,18 @@ Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organiz
 O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://6563721a19313908b0a745db--silver-belekoy-55d34e.netlify.app/">aqui</a> para acessá-lo.
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
+### [0.1.0] - 29/10/2023
+#### Adicionado
+- Homepage: arquivos HTML, CSS, e imagens.
+
+### [0.1.1] - 26/11/2023
+#### Atualizado
+- Homepage: arquivos HTML, CSS,  e imagens.
+
+#### Adicionado
+- Home: homeEmpregador.html , homeMotoboy.html
+- Tela lista motoboy: arquivo HTML e CSS.
+- Tela do motoboy: arquivo HTML e CSS.
+- Cadastro: arquivos HTML e CSS e JS.
+- Login: arquivos HTML e CSS e JS.
+- Informações empresa: arquivo HTML e CSS.
