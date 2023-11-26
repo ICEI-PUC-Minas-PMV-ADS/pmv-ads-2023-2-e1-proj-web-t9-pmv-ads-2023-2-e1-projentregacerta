@@ -181,4 +181,36 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-06: Verificar perfil de usuários (empresa) </td>
+  <td>
+   <ul>
+    <li>RF- 2 Site deve permitir a visualização por parte do usuário de informações gerais a respeito do motoboy</li>
+    <li> RF-8 O acesso a tela de perfil da empresa pode ser realizado na logo da empresa na tela Home.</li>
+   </ul>
+  </td>
+  <td>Verificar se o sistema esta exibindo todas as informações a respeito do motoboy selecionado pelo usuário.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em cadastre-se.</li>
+    <li>selecionar "empregador" e se cadastrar</li>
+    <li>Ver perfil"</li>
+   </ol>
+   </td>
+  <td>O sistema deve permitir a visualização de todas as informações incluindo imagem, informações do restaurante, avaliação,informção de contato, endereço.</td>
+  <td>Iago Maciel</td>
+ </tr>
+</table>
 
