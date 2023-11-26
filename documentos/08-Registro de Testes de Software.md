@@ -33,3 +33,31 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
  
  ![Perfil Motoboy](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/img/tela%20Funcionalidade%20Motoboy%20Vinicius.png)
+
+
+
+<li> CT-04: CT-04: Verificar o funcionamento do cadastro de usuário.
+
+  Responsável: Rodrigo.
+
+![plano de testes](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/main/documentos/img/campo%20e-mail%20e%20senha%20s%C3%A3o%20obrigat%C3%B3rios.png)
+
+<p> Na imagem acima, o sistema retornou que os campos de e-mail e senha são obrigatórios, não permitindo o cadastro</p>
+
+![plano de testes 2](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/main/documentos/img/senhas%20n%C3%A3o%20conferem.png)
+
+
+<p> Na imagem acima, o sistema retornou que os campos senha e confere senha estão divergentes, não permitindo o cadastro.</p>
+
+
+![plano de testes 3](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/main/documentos/img/cadastro%20efetuado%20com%20sucesso.png)
+
+
+<p> Na imagem acima, o sistema efetuou o cadastro corretamente, visto que todas as premissas de preenchimento foram atendidas.</p>
+
+
+![plano de testes 4](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/main/documentos/img/erro%20usu%C3%A1rio%20j%C3%A1%20cadastrado.png)
+
+
+<p> Na imagem acima, o sistema não permitiu o cadastro, devido esse usuário já estar previamente cadastrado.</p>
+
