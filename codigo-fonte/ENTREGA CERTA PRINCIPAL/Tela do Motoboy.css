@@ -88,3 +88,10 @@ top: 30%;}
   text-align: center;
   padding: 10px;
 }
+button{background-color: rgb(131, 127, 127);
+  text-decoration: none;
+  
+}
+.botão{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+text-decoration: none;
+color: #000000;}
