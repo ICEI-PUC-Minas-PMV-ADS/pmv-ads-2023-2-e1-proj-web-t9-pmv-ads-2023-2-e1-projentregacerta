@@ -37,7 +37,7 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 
 # Hospedagem
 
-A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://6563721a19313908b0a745db--silver-belekoy-55d34e.netlify.app/"> aqui</a> para acessá-lo.
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://6574be68c999e515cc826a40--helpful-llama-a82324.netlify.app/"> aqui</a> para acessá-lo.
 
 # Código-Fonte
 
