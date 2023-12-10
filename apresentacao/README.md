@@ -5,7 +5,8 @@
 A apresentação do projeto em pdf:
 
 
-[apresentação - ENTREGA CERTA.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/blob/main/documentos/Entrega-certa-Desenvolvimento-de-uma-aplicacao-web-para-delivery-e-motoboys%20(2)%20(1)%20(1).pdf)
+[apresentação - ENTREGA CERTA.pdf]([Entrega-certa-Desenvolvimento-de-uma-aplicacao-web-para-delivery-e-motoboys (4).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/files/13629381/Entrega-certa-Desenvolvimento-de-uma-aplicacao-web-para-delivery-e-motoboys.4.pdf)
+)
 
 
 
@@ -20,7 +21,10 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 
 [
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/469a1cd7-cc31-47bb-a403-c35734b10901
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projentregacerta/assets/145507947/1607c185-cadb-42c4-8ff5-11f3f17f6be3
+
 
 ]
 
